@@ -163,7 +163,7 @@ a {
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(/images/Imghero.png);
+    url(./images/Imghero.png);
 }
 
 .main-content-title {
