@@ -357,8 +357,11 @@ a {
   margin-right: 0;
 }
 .clients-company-list .company-icon-link {
-  display: block;
-  text-align: center;
+  /* display: block;
+  text-align: center; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
   padding: 16px 32px;
   width: 170px;
   height: 92px;
